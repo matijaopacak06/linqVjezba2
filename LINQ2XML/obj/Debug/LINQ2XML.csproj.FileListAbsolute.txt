@@ -1,0 +1,2 @@
+C:\Users\Ucenik\source\repos\LINQ2XML\LINQ2XML\obj\Debug\LINQ2XML.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\LINQ2XML\LINQ2XML\obj\Debug\LINQ2XML.csproj.CoreCompileInputs.cache
